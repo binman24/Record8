@@ -1,0 +1,26 @@
+{
+  "name": "Lelia Carter",
+  "age": 28,
+  "address": {
+    "street": "Jazji Trail",
+    "city": "Odowecna",
+    "state": "TN",
+    "zip": "09349"
+  },
+  "contact": {
+    "phone": "(942) 271-6594",
+    "servicePhone": "800818351"
+  },
+  "birthday": "1995-05-04T05:02:01.372Z",
+  "ip": "149.90.114.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Efe zuc ku wurgen ibafu os supdoddew agbif decvegu ho dasok ededot izog ho. Gumelrop sukniowa wibosvu taoza vistaccik owjitjo isjagvog tocu mizlel ne gazidi nopvef. Javiz jesu malse ve lide fe mi bapvu ovobogba gik zeldaof nawitgem pos en juomukod.",
+    "bio": "Hej po fehonoj ujhabom zanhij de bu babojjez tegide gimah walor zak aji fines oharin luf pe bu. Ha osi sovkop bawoho hegzikog tota vetekkan jifowoj dazhup ov omu hon dobine. Koga pubimja dufe huciz togririg uj je niemseg ditcurdoj catnultik ecitok ler zawovme nokmog dithoc cemku dugjeahu vitovejul."
+  },
+  "apiKey": "7e46d5a9482290bcc34e9232734d1150bd69dfd4fde6e8b2c7db28660f90e5dc",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
