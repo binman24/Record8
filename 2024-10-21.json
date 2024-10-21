@@ -1,0 +1,26 @@
+{
+  "name": "Donald Byrd",
+  "age": 21,
+  "address": {
+    "street": "Momse Extension",
+    "city": "Opnirivu",
+    "state": "MD",
+    "zip": "44606"
+  },
+  "contact": {
+    "phone": "(503) 268-5248",
+    "servicePhone": "800992759"
+  },
+  "birthday": "1962-06-28T07:33:40.935Z",
+  "ip": "61.101.24.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Fonkogtum eg titcuspu mal ejhuhit ziwiev ad suhme wusabi ezubi okuvibsa tab zope ricah. Ruas rehazcag is orna maslegmuv ez do puki hehnaalo douzife kuacsuv po utewojan es luzkavag. Pumuv ugo katsom mo racev ravajhov ewon enovinge sumas wavgak ritjih hal ige.",
+    "bio": "Zapi sicjov jajo cama pegmihhuj kuvhod bu difenu uftumuh lu dueza marseb. Tizet fuculre wahuc luavubug ledkuhu dop roefu webpu irek mokoccag everic dibupwu zacuve. Opnahud su tovgah lannag wehpad jos zoniha ijo kauli nuoje heda laikatub ti use ujoriadu gicagtig vofhankug."
+  },
+  "apiKey": "a98ab4fc025ce0c5702c811b52d17fddf67798b22ad20a07a0702dab76f7b1db",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
