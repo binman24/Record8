@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Lynch",
+  "age": 50,
+  "address": {
+    "street": "Tukol Highway",
+    "city": "Ponagdej",
+    "state": "IA",
+    "zip": "73081"
+  },
+  "contact": {
+    "phone": "(275) 747-9113",
+    "servicePhone": "800138933"
+  },
+  "birthday": "1964-02-09T07:52:20.156Z",
+  "ip": "142.114.87.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Wah miwmi foblaneco rap rawnetor sado ho fikop dewdug vo sa narjeh. Ze waohu noawo baphe paelu fo ilana jaducah uf tuzwum novuebo kek cige fal tibodmih. Pavpopsan pushirev na akofinis bejawbap su po gic dain ez opa nasenur herjele fonjohzuf su kidta.",
+    "bio": "Hu fogu ek we pomjusiz towugoh si enbacat woh pulogoc wev femduzif wit ophew kaofosuf. Tevinti hifa vouja palo du fa ga gimaleb vi bosuvke ni jignoma ilrah acwagdod nuw pek pawato. Lazcultis tihkiv salifop sulodi zo rozezi wurfu loomade lan baaf lingodpin mujbob omda. Fuopgip lematca pirev ipac eci me lamhi imefa libuwirib nuj ewwut gisjikah woneba gogwekru fedum. Fecit puw giwriwcuj pel se wic vuz jas harodhi bik esi cogpenli ijakuz wi uba dubhijhe ekilo."
+  },
+  "apiKey": "4422993c2ab773f35ae4a2a6d1745d1ba9032dd290307b01d272850935d4c2a2",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
