@@ -1,0 +1,26 @@
+{
+  "name": "David French",
+  "age": 23,
+  "address": {
+    "street": "Pouga Square",
+    "city": "Wepakce",
+    "state": "GA",
+    "zip": "96127"
+  },
+  "contact": {
+    "phone": "(274) 470-4273",
+    "servicePhone": "800927761"
+  },
+  "birthday": "1965-04-09T08:02:41.841Z",
+  "ip": "173.41.28.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Guzovop zaibgu piraknat towahjo pij cavano gi dof ezoneza lotlij gowa zoacada foc futumjef pihlos seiluwat. Kakopku hafigefip zere zamecosu bo pu wimhot aksuf husap ipefi ke ihcaj jiriali ifsab wihizahig fa ken. Gi mane leahisup ziidu nanki irzodri fownam densiobe obenin hidiica gija kemepo zora. Se decici fo pif dutoon ijduc ciggen luugu afaofow be webcovwi fe vi baezca.",
+    "bio": "Lolakun guja tioc tobodafa ahmaj mab suhigja muc re nor ti miz zirmawa cesgic. Cit atrupak li jitpida iw setaruk cejakup mumar cu taza izaru loppafa anfer vive. Bu was nidufuz marfi koz ti segkaal jocbunu nutawi jiwhem wihufufub ceh sik."
+  },
+  "apiKey": "daf6c45c11bd8d4914611d9c2ef31d2500acbb41ecff01d5324c9e17567dc41d",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
