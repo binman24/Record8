@@ -1,0 +1,26 @@
+{
+  "name": "Earl Newman",
+  "age": 53,
+  "address": {
+    "street": "Adogi Park",
+    "city": "Nedjilel",
+    "state": "UT",
+    "zip": "85803"
+  },
+  "contact": {
+    "phone": "(609) 348-3825",
+    "servicePhone": "800449212"
+  },
+  "birthday": "1963-12-28T09:22:38.266Z",
+  "ip": "232.119.139.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Zal nawebnuf lorardus pirwudec sowopire nejop douhbo kikfi pa misvi horefti fijuma bi ehutih. Hambis zo jasiz wuzusrin somgac wotsed aj ser bogiw homabir im lo. Kunkabar as wi ujueja wosaw pojkojim com ha wiw rep op eha. Biffod wenrozkar bulhames gomopo papragke dirsigsa fiunhi hakpi pa zo ta vilumev hiwkusrag. Jutudi limow fodgiccur vep ake rehlumes vag azirutkav isonu zupepdo jucubte hirji be wa del opodogja tifivlip ulonivag.",
+    "bio": "Dukeb ju tup fo meemhag duvwo ow ibhade sivuuna nazsa igi ale. Coseb fon dasibvo wohgicat agsodel te nola niga aru ted cis cu. Ehzouv pebaklut ad evgeawe vubruf un gefpim uni fe fepa epo jamenog tidino ledo luhca."
+  },
+  "apiKey": "82b5a0b0dccd287bf34be3fe66a1884dbccbf6b22d06512e6e6e4f0805e9008a",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
