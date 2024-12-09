@@ -1,0 +1,26 @@
+{
+  "name": "Mason Waters",
+  "age": 26,
+  "address": {
+    "street": "Vezud Key",
+    "city": "Ubulogo",
+    "state": "IL",
+    "zip": "29851"
+  },
+  "contact": {
+    "phone": "(916) 500-4519",
+    "servicePhone": "800997371"
+  },
+  "birthday": "2004-06-09T06:13:12.362Z",
+  "ip": "82.61.233.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Ligtecih ro golife eluceb iruav ba is uwisurgud kofporhi mime gore wil izi ciwepir tajdil taboece ihdunpat. Ubroda ohitage zocit giwit feukavo omizilziv fa wudej cozu huabfop ni isbudo wa je bic. Ulaosu tiuv no cohtuzo jol gozsifnu copo lojaiza lap liav tivkoh sa kuaw comul. Kopwo fatavzoz ta ic gugudtu kemdujo di nisep bikwiub efu velhih guwima tu jisemah benbuuji wuppod emremhuv. Ponaeh imrec dotam felot poh gafrekja ibiusle suhwoh lokpe fowgawacu pu am icufuleve izjasdu ti lac awu. Rosuge tebbuiwa ka atu bezadde bormoh it ka cocito ro sontev waw papejesi fudbebu wabvud doljah.",
+    "bio": "Hasu titlop vasor zokonad ti ohola nuzjub it ki dan rogeuk wiwhe howzavog rolpema. Je arfep mal upvip hubka be taw bura oli nicpo sovfilat rukos kiamuto kootutuv mu emu tupsiwut acouk. Rohuci jiwowag kaum azoed jaciv mipo simhom uwuilri rotahkot ab ba do."
+  },
+  "apiKey": "f8a036cb3a2909e111f0fb231db0912554be1763fc72285f35e76b0d55798d2b",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
