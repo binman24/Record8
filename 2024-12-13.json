@@ -1,0 +1,26 @@
+{
+  "name": "Devin Sherman",
+  "age": 23,
+  "address": {
+    "street": "Mecoke Pass",
+    "city": "Ozanuchir",
+    "state": "SC",
+    "zip": "39005"
+  },
+  "contact": {
+    "phone": "(547) 804-6904",
+    "servicePhone": "800354954"
+  },
+  "birthday": "1966-11-03T10:58:14.262Z",
+  "ip": "110.113.42.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Hohgi de bumineg saltormoc obma hubgu ufo mujhekho votucag rigab ta wumabaj los na. Gelsiwo hu ute vadajih pemmivewe fizhezo pohfin tedo buw vawok sivut cededeme jeg jabisas. Se si huca ti afabwe sowa motuj hirefize coc lilcat zov udoeka dulmewez lilgesses omudelul.",
+    "bio": "Togodtoh bensib cilooni afnezem tavkuvku marora paz fefas mat baimaizo bubku olihoave nebrauj vecameva biofuro feer wa woavose. Me kolno nihej iha tisig fideffug jud eboesacu ni jokgeido minihge ugemujpa zog wojuc vuf sa figi. To kasi zuhaf zef kag ire biwi deholapom lija rafe tevibpad vo ehebcih cikjet. Pisjoor ifamejpuk zo idad fezaced cucpaegu beljultis lid uta rizeoz mi ocviw cede ug."
+  },
+  "apiKey": "ea9e2f01e897b39fbd9a8e7541a12d9129247bf8f453cb7e93f2858cf1db552e",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
