@@ -1,0 +1,25 @@
+{
+    "name": "James Dean",
+    "age": 21,
+    "address": {
+        "street": "Mcdonald Gardens",
+        "city": "South Melissaport",
+        "state": "Oregon",
+        "zip": "26063"
+    },
+    "contact": {
+        "phone": "2674182205",
+        "servicePhone": "800252908"
+    },
+    "birthday": "2004-11-07",
+    "ip": "199.117.79.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Find despite quickly television. Its focus experience.\nStock remain raise window discover month. Affect husband stock point vote think sound country.",
+        "bio": "Nothing life now fast sense attack. People president question front think prepare.\nTrouble person behind part. His treatment father president unit."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
