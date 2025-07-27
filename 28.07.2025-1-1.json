@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Griffin",
+    "age": 1,
+    "address": {
+        "street": "Haynes Ranch",
+        "city": "Knappland",
+        "state": "New Mexico",
+        "zip": "57354"
+    },
+    "contact": {
+        "phone": "480.362.8894x13702",
+        "servicePhone": "800374817"
+    },
+    "birthday": "2024-13-10",
+    "ip": "115.183.220.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Social then development must impact. Water our look deep medical piece as billion.\nGarden already play. Box reveal anyone in public result drop nothing.",
+        "bio": "Special hair go buy couple say. President firm return style church nature. Religious even cold play in night southern growth."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
