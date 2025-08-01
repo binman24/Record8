@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Wells",
+    "age": 12,
+    "address": {
+        "street": "Brianna Harbor",
+        "city": "Port Katherine",
+        "state": "Wyoming",
+        "zip": "21297"
+    },
+    "contact": {
+        "phone": "487.459.9509",
+        "servicePhone": "800122891"
+    },
+    "birthday": "2013-12-09",
+    "ip": "131.171.153.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman keep event. Always police world outside. Born piece trip activity federal coach the.\nPrepare watch cause better. Win will computer size expect.",
+        "bio": "Mouth similar interview future PM child various throughout. Evening paper reach law career. Possible inside mission question resource around. Worry dark western middle source."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
