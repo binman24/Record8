@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Turner",
+    "age": 108,
+    "address": {
+        "street": "Darlene Light",
+        "city": "New Karentown",
+        "state": "New Jersey",
+        "zip": "82576"
+    },
+    "contact": {
+        "phone": "+1-864-872-6396x918",
+        "servicePhone": "800485604"
+    },
+    "birthday": "1917-18-10",
+    "ip": "109.98.138.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention page science leader hundred newspaper third. Situation year recognize matter sign. Charge lose least.\nPositive true future set in amount.",
+        "bio": "Agree around nearly magazine. Girl us everyone. Media often your.\nEight scene explain from above. Spring build keep along media because. Thing dark listen impact last current."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
