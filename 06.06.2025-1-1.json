@@ -1,0 +1,25 @@
+{
+    "name": "Riley Bennett",
+    "age": 82,
+    "address": {
+        "street": "Zimmerman Crossing",
+        "city": "Brandonmouth",
+        "state": "Minnesota",
+        "zip": "26246"
+    },
+    "contact": {
+        "phone": "001-567-699-8188",
+        "servicePhone": "800730006"
+    },
+    "birthday": "1943-11-01",
+    "ip": "2.170.6.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution try safe management officer small. Area data discover my.\nMany great left my yard size unit. Three in play end significant along.\nCharge meet true work.",
+        "bio": "Finally Republican place fast.\nExpect leave kitchen daughter turn eight tell. Begin water growth surface campaign growth music."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
