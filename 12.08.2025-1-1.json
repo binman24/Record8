@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Bradshaw",
+    "age": 86,
+    "address": {
+        "street": "Trevino Springs",
+        "city": "Ashleyton",
+        "state": "Delaware",
+        "zip": "93651"
+    },
+    "contact": {
+        "phone": "579.469.2329x8202",
+        "servicePhone": "800909844"
+    },
+    "birthday": "1939-22-12",
+    "ip": "136.46.103.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone thus around necessary. Structure create require skill cut teacher. Choose special day. Nothing PM realize current behavior.",
+        "bio": "Range whether between arrive. Part rest drug win present production goal focus.\nSea account receive stand south throughout. Sea huge order right low effect your these."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}

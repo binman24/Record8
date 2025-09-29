@@ -1,0 +1,25 @@
+{
+    "name": "David Hayden",
+    "age": 109,
+    "address": {
+        "street": "Alexander Fords",
+        "city": "Robertsonside",
+        "state": "Iowa",
+        "zip": "46759"
+    },
+    "contact": {
+        "phone": "8943190742",
+        "servicePhone": "800671139"
+    },
+    "birthday": "1916-16-12",
+    "ip": "24.215.78.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Begin money leave six court sea food.\nRisk onto finish type husband. Can table myself third. Guy money fine street face PM if.",
+        "bio": "Now certainly executive can owner executive give voice. About argue dark friend. Land personal discover police building alone trouble. Itself knowledge among actually exist quality."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}

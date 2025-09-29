@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Mathis",
+    "age": 110,
+    "address": {
+        "street": "Brooks Loop",
+        "city": "Lake Jamesmouth",
+        "state": "Mississippi",
+        "zip": "76106"
+    },
+    "contact": {
+        "phone": "386.888.6897x93149",
+        "servicePhone": "800114702"
+    },
+    "birthday": "1915-07-10",
+    "ip": "66.180.221.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Send sense industry speech simple. Gun still day.\nWeek administration end painting business again. Over building girl.\nAlone once share you campaign. Number fear phone.",
+        "bio": "Station budget support skill large. Too later board if produce. Make wall manager scientist blue number.\nRather key red seven camera give line attack. Have week by painting mission past."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}

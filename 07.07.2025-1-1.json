@@ -1,0 +1,25 @@
+{
+    "name": "Shane Allen",
+    "age": 71,
+    "address": {
+        "street": "Hall Vista",
+        "city": "Amandabury",
+        "state": "Massachusetts",
+        "zip": "68631"
+    },
+    "contact": {
+        "phone": "+1-588-465-6857x43091",
+        "servicePhone": "800579486"
+    },
+    "birthday": "1954-30-04",
+    "ip": "162.141.96.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Within including stock. Blue lay really time school.\nFar sense thank different special. Lead several push many thank father away. Doctor behind day each.",
+        "bio": "Practice enough reflect very strategy blue series. Discuss relationship animal military.\nDegree not since you tax local.\nArrive much understand. Up describe room trip physical police."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
