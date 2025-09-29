@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Marsh",
+    "age": 11,
+    "address": {
+        "street": "Hernandez Roads",
+        "city": "West Brittney",
+        "state": "Illinois",
+        "zip": "46001"
+    },
+    "contact": {
+        "phone": "(251)863-7359x14808",
+        "servicePhone": "800709507"
+    },
+    "birthday": "2014-26-11",
+    "ip": "2.45.24.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Affect degree give between husband consider. Be might community window factor everything.\nMusic generation here air here ground wide. Free stock almost evidence street.",
+        "bio": "Generation term writer by. Whole military song easy federal.\nEvent store conference everybody be. Present tell allow statement on including."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
