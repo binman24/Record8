@@ -1,0 +1,25 @@
+{
+    "name": "Seth Meyer",
+    "age": 64,
+    "address": {
+        "street": "Mclaughlin Course",
+        "city": "East Bailey",
+        "state": "North Carolina",
+        "zip": "72016"
+    },
+    "contact": {
+        "phone": "(630)690-9906x930",
+        "servicePhone": "800753007"
+    },
+    "birthday": "1961-29-07",
+    "ip": "211.72.130.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder shoulder specific help sit control write. Security marriage national expert dinner a most along. Serious thousand this.",
+        "bio": "Read join home stock often include others. Discussion hair born about people above simply. Woman beyond protect find while fight. None sign sort compare yes subject performance."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}

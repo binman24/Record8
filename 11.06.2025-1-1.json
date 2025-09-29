@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Orr",
+    "age": 75,
+    "address": {
+        "street": "Brett Plain",
+        "city": "South Cynthia",
+        "state": "Oregon",
+        "zip": "17818"
+    },
+    "contact": {
+        "phone": "001-557-696-8498x0314",
+        "servicePhone": "800500965"
+    },
+    "birthday": "1950-17-11",
+    "ip": "90.94.126.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Necessary amount total follow item bit many. Page he plant push. Whom daughter speak friend. Catch who reflect event and.\nBoard though recently few. Deep leave source base feeling raise.",
+        "bio": "Better few young task.\nPast opportunity off choose. Doctor president hospital third instead model month. Film ask use director color heart work."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
