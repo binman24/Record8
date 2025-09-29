@@ -1,0 +1,25 @@
+{
+    "name": "Grant Sloan",
+    "age": 10,
+    "address": {
+        "street": "Richard Brooks",
+        "city": "Cookfort",
+        "state": "North Dakota",
+        "zip": "35373"
+    },
+    "contact": {
+        "phone": "2145544230",
+        "servicePhone": "800477183"
+    },
+    "birthday": "2015-24-06",
+    "ip": "20.63.125.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Keep born north start conference hard choice. Television at several behavior its agree collection.\nOld occur try common help. Head Mr describe six television eye interview.",
+        "bio": "Product hope bed surface. They into figure. Standard fire stock research special despite newspaper. Security around around government town him."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
