@@ -1,0 +1,25 @@
+{
+    "name": "Karen Meadows",
+    "age": 9,
+    "address": {
+        "street": "Kendra Plaza",
+        "city": "East Alex",
+        "state": "Texas",
+        "zip": "02427"
+    },
+    "contact": {
+        "phone": "+1-344-507-6645x20689",
+        "servicePhone": "800553119"
+    },
+    "birthday": "2016-04-06",
+    "ip": "161.174.165.80",
+    "foo": "bar",
+    "profile": {
+        "about": "It billion actually everyone score management. Present turn act mention. Generation bank memory financial culture.\nYear particular plant deal her. Law under could position opportunity race story.",
+        "bio": "Watch tough benefit threat enter. Same gas shake street sense to.\nValue wish evidence trip. Shoulder behavior admit well trip fear long call."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
